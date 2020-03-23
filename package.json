@@ -1,5 +1,6 @@
 {
   "name": "covid-19-dashboard",
+  "homepage":"https://covid-19-dashboard-app.herokuapp.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
